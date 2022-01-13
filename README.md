@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jyotiprakashgho" target="blank"><img src="https://img.shields.io/twitter/follow/jyotiprakashgho?logo=twitter&style=for-the-badge" alt="jyotiprakashgho" /></a> </p>
 
-- 🌱 I’m currently learning **Nezt.JS**
+- 🌱 I’m currently learning **Next.JS**
 
 - 💬 Ask me about **MERN, Asp.net core, Android**
 
