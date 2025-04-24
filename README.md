@@ -1,5 +1,5 @@
 <img  src="https://raw.githubusercontent.com/subhendu17620/subhendu17620/output/github-contribution-grid-snake.svg" alt="jytprks" />
-<h1 align="center">Hi 👋, I'm Jyotiprakash GHorai 🤖</h1>
+<h1 align="center">Hi 👋, I'm Jyotiprakash Ghorai 🤖</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <img align="right" alt="jyoti" width="300" src="https://pbs.twimg.com/profile_images/1432920261167255563/an3T4K-9_400x400.jpg"/>
