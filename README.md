@@ -1,4 +1,4 @@
-<img  src="https://raw.githubusercontent.com/subhendu17620/subhendu17620/output/github-contribution-grid-snake.svg" alt="jytprks" />
+<img  src="https://avatars.githubusercontent.com/u/36029299?v=4&size=64" alt="jytprks" />
 <h1 align="center">Hi 👋, I'm Jyotiprakash Ghorai 🤖</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
